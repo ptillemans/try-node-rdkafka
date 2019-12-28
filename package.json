@@ -1,0 +1,11 @@
+{
+  "name": "node-kafka",
+  "version": "1.0.0",
+  "description": "Test kafka from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "#",
+  "license": "ISC"
+}
